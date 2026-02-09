@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Emotion Detection From Bangla Language](https://github.com/Tarpon-Datta/Emotion-Detection-From-Bangla-Language.git)
 
-- 💬 Ask me about **JS, React , Next.**
+- 💬 Ask me about **Python, SQL, JS, React , Next.Js**
 
 - 📫 How to reach me **tarpondatta@gmail.com**
 
