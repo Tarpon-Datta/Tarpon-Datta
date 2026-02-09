@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarpon Datta</h1>
 <h3 align="center">A passionate frontend developer, origin from Bangladesh.</h3>
 
-- 🌱 I’m currently doing master's in **Data Science and AI** at **Fh Joanneum University of Applied Science, Graz, Austria**
+- 🌱 I’m currently doing master's in **Data Science and AI** at **Fh Joanneum University of Applied Science, Graz, Austria.**
 
 - 🤝 I’m looking for help with [Emotion Detection From Bangla Language](https://github.com/Tarpon-Datta/Emotion-Detection-From-Bangla-Language.git)
 
